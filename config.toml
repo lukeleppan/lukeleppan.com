@@ -1,0 +1,4 @@
+baseURL = 'http://lukeleppan.com/'
+languageCode = 'en-us'
+title = 'Luke Leppan'
+theme = 'PaperMod'
