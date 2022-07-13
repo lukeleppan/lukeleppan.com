@@ -25,10 +25,10 @@ description: "Nan's CLassic Christmas Cake from Granny Burnett"
 
 ## Preperation
 
-- preheat oven to 150°
-- Clean and prepare all the fruits.
-- Soak fruit in in the brandy.
-- Cream the butter with the sugar.
+1. preheat oven to 150°
+2. Clean and prepare all the fruits.
+3. Soak fruit in in the brandy.
+4. Cream the butter with the sugar.
 - Add eggs one by one to the creamed butter, beating thoroughly after each egg.
 - Add the prepared fruits.
 - Sieve in the flour, baking powder, mixed spice and a pinch of salt.
